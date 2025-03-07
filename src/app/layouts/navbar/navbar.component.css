@@ -1,0 +1,23 @@
+nav {
+  width: auto;
+}
+.icon-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#nav-title {
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+#contacto {
+  font-family: "Quicksand", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 1.5rem;
+}
+
