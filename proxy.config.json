@@ -1,0 +1,11 @@
+{
+  "/programasCtrl": {
+      "target": "http://38.242.154.199:8083/api",
+      "secure": false,
+      "changeOrigin": true,
+      "pathRewrite": {
+          "^/programasCtrl": ""
+      }
+  }
+
+}
